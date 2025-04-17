@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "643524059588",
+    "project_id": "warmelephantmario",
+    "storage_bucket": "warmelephantmario.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643524059588:android:14d1bee75c8f2408f90491",
+        "android_client_info": {
+          "package_name": "com.example.flutter_plugin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPgH2cfm3XSGeqKb9Sopg21488sYxrMGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

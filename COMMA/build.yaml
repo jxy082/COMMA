@@ -1,0 +1,6 @@
+targets:
+  $default:
+    builders:
+      envied:
+        generate_for:
+          - lib/env/env.dart
